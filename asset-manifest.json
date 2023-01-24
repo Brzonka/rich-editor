@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/rich-editor/static/js/main.1e2edbb6.js",
+    "main.js": "/rich-editor/static/js/main.ed81799c.js",
     "static/js/787.53ed814e.chunk.js": "/rich-editor/static/js/787.53ed814e.chunk.js",
     "static/media/alignCenter.svg": "/rich-editor/static/media/alignCenter.14668f0eddfea6a0589db25a59676eaa.svg",
     "static/media/alignRight.svg": "/rich-editor/static/media/alignRight.408eb275d79b2fbe3c58007d111e5c20.svg",
     "static/media/alignLeft.svg": "/rich-editor/static/media/alignLeft.a0411d3ac969da7f6535ca73ac53960d.svg",
     "index.html": "/rich-editor/index.html",
-    "main.1e2edbb6.js.map": "/rich-editor/static/js/main.1e2edbb6.js.map",
+    "main.ed81799c.js.map": "/rich-editor/static/js/main.ed81799c.js.map",
     "787.53ed814e.chunk.js.map": "/rich-editor/static/js/787.53ed814e.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.1e2edbb6.js"
+    "static/js/main.ed81799c.js"
   ]
 }
