@@ -73,7 +73,10 @@ export const EditorWrapper = styled("div", {
 
 export const Panel = styled("div", {
   display: "flex",
-  boxShadow: "0 0.5rem 2rem 0 rgba(0,0,0,0.1)",
+  position: "sticky",
+  top: "1em",
+  boxShadow: "0 0.5rem 2rem 0 #dddddd",
+  background: "#ffffff",
   borderRadius: "0.5rem",
   padding: "0.5rem 0",
   overflow: "hidden"
