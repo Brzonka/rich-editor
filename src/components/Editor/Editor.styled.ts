@@ -60,7 +60,7 @@ export const EditorWrapper = styled("div", {
   flexDirection: "column",
   justifyContent: "center",
   gap: "2rem",
-  margin: "2rem auto",
+  margin: "0 auto",
   padding: "2rem",
   borderRadius: "0.5rem",
   maxWidth: "50rem",
