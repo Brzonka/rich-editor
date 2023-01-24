@@ -20,12 +20,7 @@ export const Button = styled("button", {
   },
 
   "&:hover": {
-    boxShadow: "inset 0 0 1rem 10.5rem rgba(0,0,0,0.05)",
-    transition: "box-shadow ease-out 0.1s",
-  },
-
-  "&:active": {
-    boxShadow: "inset 0 0 1rem 0 rgba(0,0,0,0.1)",
+    backgroundColor: "#efefef",
   },
 
   "&:last-child": {
@@ -74,12 +69,12 @@ export const EditorWrapper = styled("div", {
 export const Panel = styled("div", {
   display: "flex",
   position: "sticky",
-  top: "1em",
+  top: "2em",
   boxShadow: "0 0.5rem 2rem 0 #dddddd",
   background: "#ffffff",
   borderRadius: "0.5rem",
   padding: "0.5rem 0",
-  overflow: "hidden"
+  overflow: "hidden",
 });
 
 export const PanelSection = styled("div", {
